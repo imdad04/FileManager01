@@ -1,0 +1,5 @@
+sourceFileLabel=Исходный файл:
+destinationFolderLabel=Папка назначения:
+copyFileButton=Копировать файл
+successMessage=Файл успешно скопирован!
+errorMessage=Ошибка:
