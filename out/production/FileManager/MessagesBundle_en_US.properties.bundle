@@ -1,0 +1,5 @@
+sourceFileLabel=Source File:
+destinationFolderLabel=Destination Folder:
+copyFileButton=Copy File
+successMessage=File successfully copied!
+errorMessage=Error:

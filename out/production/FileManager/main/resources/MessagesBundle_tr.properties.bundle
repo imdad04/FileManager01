@@ -1,0 +1,5 @@
+sourceFileLabel=Kaynak Dosya:
+destinationFolderLabel=Hedef Klasör:
+copyFileButton=Dosya Kopyala
+successMessage=Dosya başarıyla kopyalandı!
+errorMessage=Hata:
